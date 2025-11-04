@@ -48,15 +48,23 @@ TSQL/
  ├── examples.sql
  ├── README.md
 ```
+---
+
 ## 🌐 About
 
-This repository is part of a small project of structured SQL toolkits  
-I built for everyday analytics and database maintenance tasks.
+This repository is part of my project of structured SQL toolkits  
+for everyday analytics, monitoring, and database maintenance tasks.
 
 Feel free to:
 - ⭐ **Star the repo** if you find it useful  
 - 📝 **Share suggestions or ideas** for new queries  
-- 📦 **Check the full SQL packs here:** [ballanata.gumroad.com](https://ballanata.gumroad.com)
+- 📦 **Explore full SQL packs here:** [ballanata.gumroad.com](https://ballanata.gumroad.com)
+
+---
+
+### 📬 Connect
+If you want to discuss SQL scripts, automation, or database tools —  
+you can reach me on **[LinkedIn](https://linkedin.com)** or comment in the repo.
 
 
 
